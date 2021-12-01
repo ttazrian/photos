@@ -143,3 +143,6 @@ nav::before {
   height: 1.5em;
   stroke: currentColor;
 }
+.navbar-right {
+  float: right;
+}
